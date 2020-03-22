@@ -1,0 +1,23 @@
+{
+  "name": "tpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel *.html",
+    "build": "parcel build *.html",
+    "predeploy": "parcel ",
+    "deploy": "surge dist esilv2020.surge.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "parcel-bundler": "^1.12.4",
+    "surge": "^0.21.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
