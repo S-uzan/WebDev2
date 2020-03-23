@@ -1,12 +1,10 @@
-//console.log("Hello world")
-//console.log(myNumber)
 var myNumber=42 //var n'a pas de tdz
 var otherNumber
 otherNumber=26
 const anotherNumber=282
 
 let yetAnotherNumber=2323
-//console.log(myNumber)
+
 
 
 function add (a, b) {
@@ -17,7 +15,6 @@ function substraction(a, b) {
     return a - b
 }
 
-import axios from "axios"
 
 
 document.querySelector("#submit")//après #un id
@@ -31,22 +28,3 @@ document.querySelector("#submit")//après #un id
 
 
 
-
-
-//Les 7 types sur js, le dernier a partir de juin 2020
-//Number
-//String
-//Boolean
-//Null
-//Undefined
-//Symbol
-//Objet
-//ES2020 => BigInt
-
-//Pas de classe en js
-
-
-//camelCase     variable
-//PascalCase    fonction
-//kebab-case    
-//snake_case
