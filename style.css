@@ -1,0 +1,55 @@
+
+
+
+body{
+    background-color: white;
+    color: #333;
+    text-shadow: grey;
+    max-width: 800px;
+    text-align: center;
+    font-family: Helvetica, Verdana, Helvetica, sans-serif;
+    }
+
+
+.listsec
+{
+    list-style-type: square;
+}
+
+
+
+.ul
+{
+    list-style-type: circle;
+
+}
+
+
+.tab
+{
+    display: inline-block;
+}
+
+.video
+{
+    text-align: center;
+}
+
+.discussion
+{
+    overflow-y:auto ;
+    border: 1px solid black;
+    height: 8em;
+}
+
+.input {
+    padding: 1em;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.button{
+    border-radius: 4px;
+    padding: 1em;
+}
+
